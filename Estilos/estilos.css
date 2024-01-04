@@ -1,0 +1,478 @@
+body {
+    background-color:hsl(36, 90%, 81%);
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,300&display=swap');
+
+
+.tituloprincipalindex{
+    font-family:'Poppins', sans-serif;
+    font-size: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.lenguadesuegra{
+    width: 250px;
+}
+.pieyplanta{
+    width: 250px;
+}
+.plantamosntera{
+    width: 250px;
+}
+.tresplantas{
+    width: 250px;
+}
+.medusa{
+    width: 250px;
+}
+.piedemadera{
+    width: 250px;
+}
+.soportehierro{
+    width: 250px;
+}
+
+.budita{
+    width: 300px;
+}
+
+.lamparasal{
+    width: 300px;
+}
+
+.lamparaa{
+    width: 300px;
+}
+
+.productospileta{
+    width: 350px;
+}
+
+.sucuybuda{
+    width: 300px;
+}
+
+.artificiall{
+    width: 300px;
+}
+
+.soportee{
+    width: 350px;
+}
+
+.inicioindex{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.sobrenosotrosindex{
+    font-size: 20px; ;
+    color: black;
+    text-decoration: none;
+}
+
+.galeriaindex{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.contactosindex{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.pedidosindex{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.orden{
+    display: inline;
+    font-weight:600;
+    padding-right: 10px;
+}
+
+.orden a:hover{
+color: white;
+}
+
+.ordenado{
+    display:inline ;
+}
+.ordenados{
+    display: inline;
+}
+.ordenamiento{
+    display: inline;
+}
+.acomodados{
+    display: inline;
+}
+.bolsa{
+    width: 500px;
+    margin-left: 120px;
+}
+.sabores{
+    width:  500px;
+    margin-left: 120px;
+}
+.aromaticas{
+    width: 300px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.flor{
+    width: 300px;
+    margin-left: 80px;
+}
+.buda{
+    width: 300px;
+    margin-left: 80px;
+}
+.notelo{
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.barro{
+    width: 300px;
+    margin-left: 50px;
+}
+.cemento{
+    width: 300px;
+    margin-left: 50px;
+}
+.decorativa{
+    width: 300px;
+    margin-left: 50px;
+}
+.rotomoldeada{
+    width: 300px;
+    margin-left: 50px;
+}
+.recomiendo{
+    font-family:'Poppins', sans-serif;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quienessomos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textodecorativo{
+    font-family:'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+.algunosdenuestrosproductos{
+    font-family:'Poppins', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactateconnosotros{
+    font-family:'Poppins', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nombree{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.apellidoo{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.telefonoo{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.atencionquebuscabas{
+    font-family:'Poppins', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.alimentoparamascota{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.maceta{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.insumosplantas{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.fuenteagua{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.otros{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.nombreya{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.direccionya{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.telefonoya{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.horaya{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.pedidoya{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.titulo{
+    font-family:'Poppins', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    font-family:'Poppins', sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.atodos{
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+
+.listamenu li{
+    margin: 0 1rem;
+
+}
+
+.logopaginaa{
+    height: 70px;
+    margin-right: 10px;
+    margin-left: 30px;
+    margin-top: 40px;
+
+}
+
+.tituloprincipalindex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.listamenu{
+    display: flex ;
+    justify-content: space-between;
+    min-height: 50px;
+    align-items: center
+    padding: 10px ;
+}
+
+@midia (max-width:700px){
+    header{
+        flex-direction: column;
+    }
+
+    .orden{
+        padding: 10px 0px
+    }
+}
+
+#{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.grillagaleria{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 100px auto 500px;
+}
+
+.headergrilla{
+    background-color: blueviolet;
+    grid-column: 1/5;
+    grid-row: 1/3;
+}
+
+.maingrilla{
+    background-color: brown;
+    grid-column: 1/5;
+    grid-row: 3/5;
+}
+
+.footergrilla{
+    background-color: blue;
+    grid-column: 2/4;
+}
+
+.grillacontacto{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 100px auto 500px;
+    }
+
+.grillaheader{
+    background-color: blueviolet;
+    grid-column: 1/5;
+    grid-row: 1/3;
+}
+
+    .grillamain{
+    background-color: brown;
+    grid-column: 2/5;
+    grid-row: 3/5;
+    }
+
+    .grillafooter{
+    background-color: blue;
+    grid-column: 1/5;
+    }
+
+
+    .pedidoestilo{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 100px auto 500px;
+    }
+
+    .pedidoheader{
+    background-color: blueviolet;
+    grid-column: 1/5;
+    grid-row: 1/3;
+    }
+
+    .pedidomain{
+    background-color: brown;
+    grid-column: 2/5;
+    grid-row: 3/5;
+    }
+
+    .pedidofooter{
+    background-color: blue;
+    grid-column: 1/5;
+    }
+
+    .indexprincipal{
+        display: grid;
+        grid-template-columns: 300px 300px 300px;
+        grid-template-rows: 100px auto 500px;
+    }
+
+    .indexheder{
+        background-color: blueviolet;
+        grid-column: 1/5;
+        grid-row: 1/3;
+    }
+
+    .indexmain{
+        background-color: brown;
+        grid-column: 1/5;
+        grid-row: 3/5;
+    }
+
+    .indexfooter{
+        background-color: blue;
+        grid-column: 1/5;
+    }
+
+    .sobreestilo{
+        display: grid;
+        grid-template-columns: 300px 300px 300px;
+        grid-template-rows: 100px auto 500px;
+    }
+
+    .sobreheder{
+        background-color: blueviolet;
+        grid-column: 1/5;
+        grid-row: 1/3;
+    }
+
+    .sobremain{
+        background-color: brown;
+        grid-column: 2/5;
+        grid-row: 3/5;
+    }
+
+    .sobrefooter{
+        background-color: blue;
+        grid-column: 1/5;
+    }
+
+    .general{
+        font-family:'Poppins', sans-serif;
+        font-size: 20px;
+    }
+
+    .sectionindex{
+        margin-top:5rem ;
+        background-color: aqua;
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        grid-row: 1fr 1fr;
+    }
+
+    .imagenindex{
+    width: 15rem;
+    }
