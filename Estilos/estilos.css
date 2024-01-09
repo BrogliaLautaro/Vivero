@@ -15,60 +15,15 @@ body {
     align-items: center;
 }
 
-
-.lenguadesuegra {
+.imagenes1{
     width: 250px;
 }
 
-.pieyplanta {
-    width: 250px;
-}
-
-.plantamosntera {
-    width: 250px;
-}
-
-.tresplantas {
-    width: 250px;
-}
-
-.medusa {
-    width: 250px;
-}
-
-.piedemadera {
-    width: 250px;
-}
-
-.soportehierro {
-    width: 250px;
-}
-
-.budita {
+.imagenes2{
     width: 300px;
 }
 
-.lamparasal {
-    width: 300px;
-}
-
-.lamparaa {
-    width: 300px;
-}
-
-.productospileta {
-    width: 350px;
-}
-
-.sucuybuda {
-    width: 300px;
-}
-
-.artificiall {
-    width: 300px;
-}
-
-.soportee {
+.imagenes3{
     width: 350px;
 }
 
@@ -80,7 +35,6 @@ body {
 
 .sobrenosotrosindex {
     font-size: 20px;
-    ;
     color: black;
     text-decoration: none;
 }
@@ -111,22 +65,6 @@ body {
 
 .orden a:hover {
     color: white;
-}
-
-.ordenado {
-    display: inline;
-}
-
-.ordenados {
-    display: inline;
-}
-
-.ordenamiento {
-    display: inline;
-}
-
-.acomodados {
-    display: inline;
 }
 
 .bolsa {
@@ -162,27 +100,14 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
-.barro {
+.imagenesjuntas{
     width: 300px;
-    margin-left: 50px;
+
 }
 
-.cemento {
-    width: 300px;
-    margin-left: 50px;
-}
-
-.decorativa {
-    width: 300px;
-    margin-left: 50px;
-}
-
-.rotomoldeada {
-    width: 300px;
-    margin-left: 50px;
-}
 
 .recomiendo {
     font-family: 'Poppins', sans-serif;
@@ -438,6 +363,7 @@ padding: 0;
     display: grid;
     grid-template-columns: 300px 300px 300px;
     grid-template-rows: 100px auto 500px;
+
 }
 
 .indexheder {
@@ -502,3 +428,17 @@ padding: 0;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
+
+.barradetareas{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+.listadebarra{
+        display: flex;
+        justify-content: space-between;
+        min-height: 50px;
+        align-items: center padding 10px;
+}
+
