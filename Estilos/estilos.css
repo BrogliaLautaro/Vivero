@@ -318,6 +318,30 @@ body {
 
 }
 
+@media(max-width:500px){
+    .titulo{
+        font-size: 20px;
+        margin-right: 50%
+    }
+
+    .info{
+        font-size: 17px;
+        margin-right: 58%
+    }
+
+    .atodos{
+        font-size: 15px;
+        margin-right: 58%
+    }
+
+    .informacion{
+        font-size: 18px;
+        margin-right: 50%
+    }
+}
+
+
+
 #{
 box-sizing: border-box;
 margin: 0;
