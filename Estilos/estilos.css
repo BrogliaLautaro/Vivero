@@ -88,10 +88,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+
 }
 
-.imagenesjuntas{
+.imagenesjuntas {
     width: 300px;
 
 }
@@ -263,8 +263,14 @@ body {
     align-items: center padding 10px;
 }
 
-@midia (max-width:700px){
-    header {
+.abrirmenu{
+    display: none;
+}
+
+
+@media (max-width:700px) {
+
+    .listamenu {
         flex-direction: column;
     }
 
@@ -273,10 +279,57 @@ body {
     }
 }
 
+@media(max-width:500px) {
+    .contactoclass {
+        flex-direction: column;
+        display: flex
+    }
+
+    .listamenu{
+        font-size: 20px;
+        margin-right: 50%
+    }
+
+
+    .tituloprincipalindex {
+        font-size: 18px;
+        margin-right: 50%
+    }
+
+    .informacion {
+        font-size: 18px;
+        margin-right: 50%
+    }
+
+    .general {
+        font-size: 20px;
+        margin-right: 50%
+    }
+
+    .contactateconnosotros{
+        font-size: 20px;
+        margin-right: 50%
+    }
+
+    .atencionquebuscabas{
+        font-size: 20px;
+        margin-right: 50%
+    }
+
+}
+
 #{
 box-sizing: border-box;
 margin: 0;
 padding: 0;
+}
+
+.contactoclass {
+    display: flex;
+    justify-content: space-between;
+    min-height: 50px;
+    align-items: center padding 10px;
+    color: blueviolet;
 }
 
 .grillagaleria {
@@ -380,19 +433,19 @@ padding: 0;
 }
 
 .sobreheder {
-    background-color:  darkkhaki;
+    background-color: darkkhaki;
     grid-column: 1/5;
     grid-row: 1/3;
 }
 
 .sobremain {
-    background-color:darkolivegreen;
+    background-color: darkolivegreen;
     grid-column: 1/5;
     grid-row: 3/5;
 }
 
 .sobrefooter {
-    background-color:  darkkhaki;
+    background-color: darkkhaki;
     grid-column: 1/5;
 }
 
@@ -414,23 +467,23 @@ padding: 0;
     margin-left: 50px;
 }
 
-.colorblanco{
+.colorblanco {
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
 
-.barradetareas{
+.barradetareas {
     font-size: 20px;
     color: black;
     text-decoration: none;
 }
 
-.imagenesprimeras{
+.imagenesprimeras {
     width: 350px;
-    
+
 }
 
-.contenedorimg{
+.contenedorimg {
     display: flex;
     justify-content: center;
     margin-bottom: 10px;
